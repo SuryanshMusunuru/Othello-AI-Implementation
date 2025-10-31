@@ -1,2 +1,2 @@
 # Othello-AI-Implementation
-An AI implementation of the game Othello. In this project we were tasked with developing the game and creating AI 'bots' to play against.
+An AI implementation of the game Othello. In this project we were tasked with developing the game and creating AI 'bots' to play against. The algorithms used were greedy, minimax and simulated annealing. Although the UI is primitive, we endeavoured to make it simple. We focused more on the algorithms rather than the visuals, and more instructions on how to play can be found in the code itself.  
